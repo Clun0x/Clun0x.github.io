@@ -5,7 +5,7 @@ layout: post
 categories: C++
 ---
 
-#Bienvenidos a mi primer post en esta web
+# Bienvenidos a mi primer post en esta web
 Les saluda clun0x y hoy vamos a estar posteando algo bien basico que es el hola mundo en C.
 Para esto si estan en Linux van a tener que instalar `gcc`.
 
