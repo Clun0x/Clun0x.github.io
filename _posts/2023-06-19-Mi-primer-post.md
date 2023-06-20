@@ -12,16 +12,18 @@ Para esto si estan en Linux van a tener que instalar `gcc`.
 * Primero creamos un archivo con el comando `touch hola.c`.
 * Luego editamos con `nano hola.c`
 
-{% highlight c %}
+
+```bash
 #include <stdio.h>
 
 int main(){
     printf("Hola mundo");
     return 0;
 }
-{% endhighlight %}
+```
 
 * Para poder compilar debemos ejecutar el commando `gcc -o FileName hola.c`
  
 Y listo ahora podemos ejecutarlo con el comando `./FileName`.
 
+	
