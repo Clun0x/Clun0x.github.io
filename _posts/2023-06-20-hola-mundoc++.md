@@ -11,7 +11,7 @@ usan el que mas les guste.
 * Creamos nuestro archivo `hola.cpp`
 * Editamos nuestro archivo(En linux pueden usar el comando `nano hola.cpp`)
 
-```bash
+```c++
 #include <iostream>
 using namespace std;
 

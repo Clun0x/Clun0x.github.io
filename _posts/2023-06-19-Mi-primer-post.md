@@ -1,5 +1,5 @@
 ---
-title:  "Mi primer post"
+title:  "Como hacer el hola mundo en C"
 mathjax: true
 layout: post
 categories: C++
@@ -7,13 +7,14 @@ categories: C++
 
 # Bienvenidos a mi primer post en esta web
 Les saluda clun0x y hoy vamos a estar posteando algo bien basico que es el hola mundo en C.
-Para esto si estan en Linux van a tener que instalar `gcc`.
+Para esto si estan en Linux va a ser un poco mas facil solo van a tener que instalar `gcc`, y si estan en Windows necesitan un compilador de C como MinGW
+o tambien pueden usar Dev-C++, para realizar el hola mundo tenemos que hacer lo siguiente:
 
 * Primero creamos un archivo con el comando `touch hola.c`.
 * Luego editamos con `nano hola.c`
 
 
-```bash
+```c
 #include <stdio.h>
 
 int main(){
