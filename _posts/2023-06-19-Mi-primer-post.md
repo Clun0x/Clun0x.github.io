@@ -5,8 +5,7 @@ layout: post
 categories: C++
 ---
 
-# Bienvenidos a mi primer post en esta web
-Les saluda clun0x y hoy vamos a estar posteando algo bien basico que es el hola mundo en C.
+Hola, les saluda clun0x y hoy vamos a estar posteando algo bien basico que es el hola mundo en C.
 Para esto si estan en Linux va a ser un poco mas facil solo van a tener que instalar `gcc`, y si estan en Windows necesitan un compilador de C como MinGW
 o tambien pueden usar Dev-C++, para realizar el hola mundo tenemos que hacer lo siguiente:
 
